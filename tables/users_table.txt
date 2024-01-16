@@ -1,0 +1,6 @@
+id auto_increment primary key
+username
+password
+email
+date
+image

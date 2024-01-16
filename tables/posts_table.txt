@@ -1,0 +1,5 @@
+id
+post
+image
+user_id
+date
